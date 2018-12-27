@@ -1,0 +1,9 @@
+auto-save-list
+backups
+elpa
+archives
+places
+recentf
+session.*
+#recentf#
+inint.el~
